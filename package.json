@@ -1,10 +1,9 @@
 {
-  "author": "",
-  "name": "",
-  "version": "0.0.0",
+  "author": "jonny and robert",
+  "name": "instaviz",
+  "version": "0.0.1",
   "dependencies": {
       "express": ">= 2.5.x",
-      "hamljs": "= 0.6.0",
       "instagram-node": "= 0.1.1"
   },
   "devDependencies": {}
