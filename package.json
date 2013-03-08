@@ -2,6 +2,10 @@
   "author": "",
   "name": "",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+      "express": ">= 2.5.x",
+      "hamljs": "= 0.6.0",
+      "instagram-node": "= 0.1.1"
+  },
   "devDependencies": {}
 }
